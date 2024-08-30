@@ -1,0 +1,81 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "src/assets/fonts/app_icons.ttf",
+      "sha1": "18e5fe2f93c853bbb495975f04df56438d595de5"
+    },
+    {
+      "path": "src/assets/logo.png",
+      "sha1": "33dca9a30df004b9a0c14534ad11085aaaa66ab4"
+    },
+    {
+      "path": "src/assets/posters/l1.jpg",
+      "sha1": "7724c491d6b5eeecb10461d634b1cb8aa8dda94d"
+    },
+    {
+      "path": "src/assets/posters/l2.jpg",
+      "sha1": "7e73cc5337be1ecd779893c65c88650c4910660c"
+    },
+    {
+      "path": "src/assets/posters/l3.jpg",
+      "sha1": "307b0ac76700376858efff25dce1883c4a7aedd9"
+    },
+    {
+      "path": "src/assets/posters/l4.jpg",
+      "sha1": "9c5418d91d86a02bc87981fd6b377db9f3f2e0c7"
+    },
+    {
+      "path": "src/assets/posters/l5.jpg",
+      "sha1": "d35b317049fe6f5b50df84762f9c2b48cc31f831"
+    },
+    {
+      "path": "src/assets/users/user1.png",
+      "sha1": "8ada4b5e9db6fa638fd610ae56566f29347fa6cc"
+    },
+    {
+      "path": "src/assets/users/user2.png",
+      "sha1": "612198a449d9d65eba44862fcaa393c118c9b20c"
+    },
+    {
+      "path": "src/assets/users/user3.png",
+      "sha1": "9fa9e0191281abaadee462a952b0d92de706f824"
+    }
+  ]
+}

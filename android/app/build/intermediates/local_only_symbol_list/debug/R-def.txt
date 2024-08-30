@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+drawable l1
+drawable l2
+drawable l3
+drawable l4
+drawable l5
+drawable logo
+drawable rn_edit_text_material
+drawable user1
+drawable user2
+drawable user3
+integer react_native_dev_server_port
+integer react_native_inspector_proxy_port
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme
